@@ -28,3 +28,19 @@ img {
 ul {
     font-family: 'Times New Roman', Times, serif;
 }
+
+/* Additional Styles */
+.imgSize {
+    width: 15REM;
+    height: 10REM;
+}
+
+.personalTitle {
+    text-align: center;
+    font-weight: bold;
+}
+
+.footerSizing {
+    padding: 2REM 0 2REM 0;
+    text-align: center;
+}
