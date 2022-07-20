@@ -29,4 +29,4 @@ git status command would give you the current status of the files you are workin
 git add . will add all the files in your current up-to-date directory to prepare for a commit
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-Command to put commited changes to github: git push origin main
+Command to push committed changes to github: git push origin main
